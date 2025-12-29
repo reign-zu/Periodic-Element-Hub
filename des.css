@@ -121,6 +121,18 @@ box-shadow: 0 4px 12px rgba(130, 100, 210, 0.15);
   color: white;
 }
 
+a{
+  text-decoration: none;
+  font-weight: 500;
+  padding: 8px 16px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+#cred{
+  color: grey;
+}
+
 /*RESPONSIVE*/
 
 @media screen and (max-width: 768px){
